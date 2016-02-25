@@ -1,0 +1,80 @@
+<html>
+
+<head>
+
+        <title>fatestayninghtTestAnime</font></title>
+<h3 align='center'><font color="#87CEEB"><h1>"fatestayninghtTestAnime"</h1</font</h3</h3>
+<hr width="500" align="left/right/center" size="(10)" noshade color="ff0088">
+<table style="border-left-style:dotted; border-left-width:1px">
+  <tr><td>&nbsp;</td></tr>
+    <tr><td>&nbsp;</td></tr>
+</table>
+    </head>
+
+<body>
+<P>
+<img src="CIRCLE_9142.png"align = 'left'>
+<h3 align="center"><font color="#87CEEB">เฟท/สเตย์ ไนท์ เป็นเรื่องราวที่กล่าวถึงเหตุการณ์ที่เกิดขึ้นในช่วงชีวิตของ เอมิยะ ชิโร่ นักเรียนช่างประจำวิทยาลัยโฮมุระบาระ<br>
+ ในเมืองฟุยูกิ สิบปีก่อนเขาได้ตกอยู่ท่ามกลางกองเพลิงขนาดมหึมาที่เผาผลาญเมืองและพรากครอบครัวอันเป็นที่รักของเขาไป <br>
+ในขณะที่เขาอยู่กึ่งกลางระหว่างความเป็นความตาย <br>
+ได้มีบุรุษลึกลับคนหนึ่งมาช่วยเขาไว้ เขาคือ เอมิยะ คิริซึงุ ซึ่งต่อมาเขาก็รับชิโร่มาเป็นบุตรบุญธรรม และอาศัยอยู่ที่บ้านคิริซึงุในเมืองฟุยูกิอย่างสงบสุข<br>
+ คืนหนึ่ง ในระหว่างที่พวกเขากำลังพูดคุยกันถึงเรื่องต่างๆ คิริซึงุก็ได้เปิดเผยความลับบางอย่างให้กับลูกชายของเขาว่า<br>
+</font>
+</h3>
+</span>
+</P>
+<p>  
+</p>
+<style>
+<style>
+<!--
+body { background-color: #DEDECA; }
+
+h1{color: #87CEEB ; font-size: 20px; }
+
+h2{ color: #87CEEB ; font-size: 20px; }
+
+h3{ color: #87CEEB ; font-size: 20px; }
+
+p{ margin-left:20px }
+
+hr{ color:#87CEEB; }
+
+-->
+</style>
+
+</head>
+
+<body>
+
+<h1>H1</h1>
+<hr>
+<P>fatestayninghtTestAnime</p>
+<hr >
+<style type="text/css">
+
+body
+{ 
+background-image : url('Rin_swimsuit.png');
+background-repeat: no-repeat;
+background-position: 50% 0%; 
+}
+</style>
+<img src="anime_icon_06_by_simoooapex-d81ixye.png"align = 'left'>
+<img src="image_thumb39.png"align = 'right'>
+<p>
+<a href="file:///C:/Users/Administrator/Desktop/html/kimi2.html">
+<h3 align="center"><font color="#87CEEB">เอมิยะชิโร</font></a>
+</p>
+<p>
+<a href="file:///C:/Users/Administrator/Desktop/html/kimi3.html">
+<h3 align="center"><font color="#87CEEB">เซเบอร์<font></a>
+</p>
+<p>
+<a href="file:///C:/Users/Administrator/Desktop/html/kimi4.html">
+<h3 align="center"><font color="#87CEEB">โทซากะ ริน<font></a>
+</p>
+<body bgcolor="black">
+<body background="Rin_swimsuit.png">
+    </body>
+</html> 
